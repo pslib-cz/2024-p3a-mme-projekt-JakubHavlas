@@ -17,6 +17,7 @@ cena: zhruba 300 kč
 čas: 5 - 10h
 
 
+
 ## postup
 1. první návrh
 2. Kritika od Kazdy
@@ -35,3 +36,6 @@ cena: zhruba 300 kč
 15. fotografování (bude)
 16. Hurá!
 
+## materiály
+zde jsou dva náčrty a výsledný soubor
+také je v mé složce na Fusion týmu
